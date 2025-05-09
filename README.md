@@ -135,8 +135,10 @@ The case reflects a real-world data science approach to marketing optimization i
 ---
 
 ## 📂 Project Structure
-  Gym-Marketing-Strategy/:
+
+```
     - marketing_notebook.ipynb
     - personas_uxtesting.pdf
     - final_presentation.pdf
     - executive_summary_memo.pdf
+```
