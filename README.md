@@ -138,10 +138,10 @@ The case reflects a real-world data science approach to marketing optimization i
 ## 📂 Project Structure
 
 ```
-├── gym_data/                          # Processed datasets
-├── marketing_notebook.ipynb/          # Jupyter Notebooks for analysis
+├── gym_data/                          # Processed dataset
+├── marketing_notebook.ipynb/          # Jupyter Notebook for analysis
 ├── personas_uxtesting.pdf/            # Marketing & User Personas and UX Testing
-├── final_presentation.pdf/            # Final slide deck outlining the entire project
+├── final_presentation.pdf/            # Final slide deck covering the entire project
 ├── professional_memo.pdf/             # Professional memo to executives
 ├── README.md                          # Project Overview (this file)
 ```
