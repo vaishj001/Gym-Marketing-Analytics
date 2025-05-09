@@ -1,5 +1,6 @@
 # 🏋️‍♂️ Gym Membership Marketing Strategy: Analytics Case Study
 
+
 📊 A consulting-style marketing analytics project applying segmentation, UX testing, and predictive modeling to improve gym engagement and Premium membership strategy.
 
 ---
