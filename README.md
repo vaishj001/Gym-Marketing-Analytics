@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Gym Membership Marketing Strategy: Behavioral Analytics Case Study
+# 🏋️‍♂️ Gym Membership Marketing Strategy: Analytics Case Study
 
 📊 A consulting-style marketing analytics project applying segmentation, UX testing, and predictive modeling to improve gym engagement and Premium membership strategy.
 
@@ -137,8 +137,10 @@ The case reflects a real-world data science approach to marketing optimization i
 ## 📂 Project Structure
 
 ```
-    - marketing_notebook.ipynb
-    - personas_uxtesting.pdf
-    - final_presentation.pdf
-    - executive_summary_memo.pdf
+├── gym_data/                          # Processed datasets
+├── marketing_notebook.ipynb/          # Jupyter Notebooks for analysis
+├── personas_uxtesting.pdf/            # Marketing & User Personas and UX Testing
+├── final_presentation.pdf/            # Final slide deck outlining the entire project
+├── professional_memo.pdf/             # Professional memo to executives
+├── README.md                          # Project Overview (this file)
 ```
